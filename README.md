@@ -1,2 +1,2 @@
 # InsaidData
-This is the repo contains all the practice assignment and projects for learning DS with guidelines of Insaid.
+This is the repo contains all the practice assignment and projects for learning DS.
